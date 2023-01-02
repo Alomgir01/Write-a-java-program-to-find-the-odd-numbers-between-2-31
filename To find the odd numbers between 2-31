@@ -1,0 +1,11 @@
+class HelloWorld {
+public static void main(String[] args) {
+int number=31;
+System.out.print("List of odd number is "+number+"");
+for(i=2;i<=number;i++)
+{
+if(i%2!=0)
+}
+System.out.print(i+"");
+}
+}
